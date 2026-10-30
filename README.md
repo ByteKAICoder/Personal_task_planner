@@ -1,5 +1,9 @@
 # Personal_task_planner
 
+## Описание
+
+Personal_task_planner - Консильное мриложение для персонального планирования. Интерфейс позволяет добавлять, удалять, отмечать выполненными и просматривать задачи.
+
 My first project: Personal task planner.
 
 ---
