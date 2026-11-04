@@ -1,14 +1,6 @@
 # Personal_task_planner
 
-## Описание
-
-Personal_task_planner - Консольное приложение для персонального планирования. Интерфейс позволяет добавлять, удалять, отмечать выполненными и просматривать задачи.
-
-My first project: Personal task planner.
-
----
-
-### 📋 Overview / Обзор проекта
+## 📋 Overview / Обзор проекта
 
 | Parameter | Description |
 | :--- | :--- |
@@ -16,3 +8,7 @@ My first project: Personal task planner.
 | **Project goal** | Creating a personal task planner |
 | **Project type** | Console Application (CLI) |
 | **Interface** | Command Line (Terminal) |
+
+## Description
+
+Personal_task_planner — a console-based application for personal task planning. The interface allows you to add, delete, mark as completed, and view tasks.
