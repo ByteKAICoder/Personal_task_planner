@@ -1,6 +1,6 @@
 # Personal_task_planner
 
-## 📋 Overview / Обзор проекта
+## 📋 Overview
 
 | Parameter | Description |
 | :--- | :--- |
